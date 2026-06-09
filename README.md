@@ -3,8 +3,8 @@
 I'm a passionate Software Engineer from Bangalore. I love building high-scale backend architectures, performant mobile applications, and exploring new technologies like vector search and AI-driven concierge systems.
 
 ### 🔭 Currently working on...
-* **Shortfree / Micro-Drama & Hyperlocal Apps:** Building and optimizing highly concurrent message queues, fast UIs, and scaling apps for millions of users.
-* 🌱 I’m currently learning **Advanced Redis caching strategies, Typesense vector search, and cross-lingual retrieval.**
+* **Mobile AI Agent:** Building intelligent, on-device mobile assistants.
+* 🌱 I’m currently learning **RAG (Retrieval-Augmented Generation), fine-tuning AI models, running LLMs locally on mobile, Advanced Redis caching, and Typesense vector search.**
 * 💬 Ask me about **Flutter app performance optimization, Python/Kotlin backend scaling, or scaling applications to 50M+ users.**
 * 📫 How to reach me: **bhaveshupadhyay929@gmail.com**
 
