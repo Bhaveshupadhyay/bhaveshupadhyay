@@ -28,19 +28,17 @@ I'm a passionate Software Engineer from Bangalore. I love building high-scale ba
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-*(Note: Feel free to delete or add new badges from [Shields.io](https://shields.io/))*
-
 ---
 
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radium&hide_border=true" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshupadhyay&show_icons=true&theme=radium&hide_border=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshupadhyay&layout=compact&theme=radium&hide_border=true" alt="Your Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshupadhyay&theme=radium&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
