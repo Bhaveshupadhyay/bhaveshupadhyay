@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Bhavesh Upadhyay
 
-I'm a passionate Software Engineer from Bangalore. I love building high-scale backend architectures, performant mobile applications, and exploring new technologies like vector search and AI-driven concierge systems.
+I'm a passionate Software Engineer from Bangalore. I love building high scale backend architectures, performant mobile applications, and exploring new technologies like vector search and AI driven concierge systems.
 
 ### 🔭 Currently working on...
 * **Mobile AI Agent:** Building intelligent, on-device mobile assistants.
-* 🌱 I’m currently learning **RAG (Retrieval-Augmented Generation), fine-tuning AI models, running LLMs locally on mobile, Advanced Redis caching, and Typesense vector search.**
+* 🌱 I’m currently learning **RAG (Retrieval-Augmented Generation), fine tuning AI models, running LLMs locally on mobile, Advanced Redis caching, and Typesense vector search.**
 * 💬 Ask me about **Flutter app performance optimization, Python/Kotlin backend scaling, or scaling applications to 50M+ users.**
 * 📫 How to reach me: **bhaveshupadhyay929@gmail.com**
 
