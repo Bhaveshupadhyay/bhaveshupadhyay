@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋, I'm Bhavesh Upadhyay
 
-<!--
-**Bhaveshupadhyay/bhaveshupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer from Bangalore. I love building high-scale backend architectures, performant mobile applications, and exploring new technologies like vector search and AI-driven concierge systems.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on...
+* **Shortfree / Micro-Drama & Hyperlocal Apps:** Building and optimizing highly concurrent message queues, fast UIs, and scaling apps for millions of users.
+* 🌱 I’m currently learning **Advanced Redis caching strategies, Typesense vector search, and cross-lingual retrieval.**
+* 💬 Ask me about **Flutter app performance optimization, Python/Kotlin backend scaling, or scaling applications to 50M+ users.**
+* 📫 How to reach me: **bhaveshupadhyay929@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools
+
+*Here are the technologies I work with:*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+*(Note: Feel free to delete or add new badges from [Shields.io](https://shields.io/))*
+
+---
+
+### 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radium&hide_border=true" alt="Your Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
