@@ -2,10 +2,16 @@
 
 I'm a passionate Software Engineer from Bangalore. I love building high scale backend architectures, performant mobile applications, and exploring new technologies like vector search and AI driven concierge systems.
 
-### 🔭 Currently working on...
-* **Mobile AI Agent:** Building intelligent, on-device mobile assistants.
-* 🌱 I’m currently learning **RAG (Retrieval-Augmented Generation), fine tuning AI models, running LLMs locally on mobile, Advanced Redis caching, and Typesense vector search.**
-* 💬 Ask me about **Flutter app performance optimization, Python/Kotlin backend scaling, or scaling applications to 50M+ users.**
+### 🚀 What I'm Building
+I am currently engineering an **AI Client Agent** tailored for agencies and freelancers. It acts as an autonomous Product Manager that handles the entire client-facing lifecycle:
+
+* 📋 **Client Management:** Captures product requirements and autonomously negotiates project budgets.
+* 🔄 **Sync & Integration:** Daily fetches and analyzes GitHub Pull Requests and Slack conversations.
+* 📈 **Progress Tracking:** Automatically synthesizes technical updates into clear, high-level progress reports for the client.
+
+#### 🛠️ Tech Stack & Architecture Behind It:
+* **AI/ML:** RAG pipelines, model fine-tuning, and on-device/mobile LLM deployment.
+* **Backend & Search:** Advanced Redis caching and Typesense vector search for lightning-fast context retrieval.
 * 📫 How to reach me: **bhaveshupadhyay929@gmail.com**
 
 ---
